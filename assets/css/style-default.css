@@ -11644,14 +11644,14 @@ blockquote.lgx-testi-single:before {
 /* 2.19 subscription
 ---------------------------------------------------------------------*/
 .lgx-subscriber-area-indiv {
-  background: url('http://placehold.it/1920x500') center center no-repeat;
+  background: url('../img/gallery/GDSS5.png') center center no-repeat;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
 }
 .lgx-subscriber-area-black {
-  background: url('http://placehold.it/1920x500') center center no-repeat;
+  background: url('../img/gallery/GDSS5.png') center center no-repeat;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -11953,7 +11953,7 @@ blockquote.lgx-testi-single:before {
   padding: 17rem 0 9rem;
 }
 .lgx-banner-inner {
-  background: url('http://placehold.it/1920x500') center center no-repeat;
+  background: url('../img/gallery/GDSS5.png') center center no-repeat;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
