@@ -8130,21 +8130,21 @@ lgx-zoomInUp
   background: #fff;
 }
 .lgx-about2 {
-  background: url('http://placehold.it/1920x700') bottom no-repeat;
+  background: url('../img/backgrounds/bck.png') bottom no-repeat;
   -webkit-background-size: auto auto, cover;
   -o-background-size: auto auto, cover;
   -moz-background-size: auto auto, cover;
   background-size: auto auto, cover;
 }
 .lgx-about3 {
-  background: url('http://placehold.it/1920x700') bottom no-repeat;
+  background: url('../img/backgrounds/bck.png') bottom no-repeat;
   -webkit-background-size: auto auto, cover;
   -o-background-size: auto auto, cover;
   -moz-background-size: auto auto, cover;
   background-size: auto auto, cover;
 }
 .lgx-about-music {
-  background: url('http://placehold.it/1920x700') bottom no-repeat;
+  background: url('../img/backgrounds/bck.png') bottom no-repeat;
   -webkit-background-size: auto auto, cover;
   -o-background-size: auto auto, cover;
   -moz-background-size: auto auto, cover;
